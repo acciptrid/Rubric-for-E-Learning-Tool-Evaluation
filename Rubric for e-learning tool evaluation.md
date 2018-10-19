@@ -10,14 +10,6 @@ Not all rubric criteria are necessarily applicable to all eLearning tools and th
 applicable”. The rubric does not identify a discrete threshold that an eLearning tool needs to cross before a tool should be used; the rubric is a formative
 tool intended to offer insight into the relative strengths and weaknesses of an eLearning Tool, as evaluated against a set of criteria.
 
-**Rubric for eLearning Tool Evaluation**
-
-This rubric has been designed for instructors and staff as a formative tool to evaluate eLearning tools in higher education. eLearning tools are defined as any digital technology, mediated through the use of a computing device, deliberately selected to support student learning. The rubric supports a multi-dimensional evaluation of functional, technical, and pedagogical aspects of eLearning Tools.
-
-**Instructions**
-
-Not all rubric criteria are necessarily applicable to all eLearning tools and those using the rubric are encouraged to assess irrelevant criterion as &quot;not applicable&quot;. The rubric does not identify a discrete threshold that an eLearning tool needs to cross before a tool should be used; the rubric is a formative tool intended to offer insight into the relative strengths and weaknesses of an eLearning Tool, as evaluated against a set of criteria.
-
 | **Category** | **Criteria** | **Works Well** | **Minor Concerns** | **Serious Concerns** | **Not applicable** |
 | --- | --- | --- | --- | --- | --- |
 | **Functionality** | Scale | The tool can be scaled to accommodate any size class with the flexibility to create smaller sub-groups or communities of practice | The tool can scaled to accommodate any size class but lacks flexibility to create smaller sub-groups or communities of practice | The tool is restrictive to a limited number of users and cannot be scaled |   |
@@ -59,7 +51,7 @@ Not all rubric criteria are necessarily applicable to all eLearning tools and th
 
 | **Category** | **Criteria** | **Works Well** | **Minor Concerns** | **Serious Concerns** | **Not applicable** |
 | --- | --- | --- | --- | --- | --- |
-| **Teaching**** Presence** | Facilitation | The tool has easy-to-use features that would significantly improve an instructor&#39;s ability to be present with learners via active management, monitoring, engagement, and feedback | The tool has limited functionality to effectively support an instructor&#39;s ability to be present with learners via active management, monitoring,  engagement, and feedback | The tool has not been designed to support an instructor&#39;s an instructor&#39;s ability to be present with learners via active management, monitoring, engagement, and feedback |   |
+| **Teaching Presence** | Facilitation | The tool has easy-to-use features that would significantly improve an instructor&#39;s ability to be present with learners via active management, monitoring, engagement, and feedback | The tool has limited functionality to effectively support an instructor&#39;s ability to be present with learners via active management, monitoring,  engagement, and feedback | The tool has not been designed to support an instructor&#39;s an instructor&#39;s ability to be present with learners via active management, monitoring, engagement, and feedback |   |
 |   | Customization | Tool is adaptable to its environment: easily customized to suit the classroom context and targeted learning outcomes | Limited aspects of the tool can be customized to suit the classroom context and learning outcomes | The tool cannot be customized |   |
 |   | Learning Analytics | Instructor can monitor learners&#39; performance on a variety of responsive measures. These measures can be accessed through a user-friendly dashboard | Instructor can monitor learners&#39; performance on limited measures; or data is not presented in a format that is easily interpreted | The tool does not support the collection of learning analytics |   |
 
